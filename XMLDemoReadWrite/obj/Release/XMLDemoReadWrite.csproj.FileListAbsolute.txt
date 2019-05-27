@@ -1,0 +1,16 @@
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.csprojAssemblyReference.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\App.g.cs
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\MainWindow.g.cs
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite_MarkupCompile.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite_MarkupCompile.lref
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\bin\Release\XMLDemoReadWrite.dll.config
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\bin\Release\XMLDemoReadWrite.dll
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\bin\Release\XMLDemoReadWrite.pdb
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\App.baml
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\MainWindow.baml
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.g.resources
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.Properties.Resources.resources
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.csproj.GenerateResource.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.dll
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLDemoReadWrite\obj\Release\XMLDemoReadWrite.pdb

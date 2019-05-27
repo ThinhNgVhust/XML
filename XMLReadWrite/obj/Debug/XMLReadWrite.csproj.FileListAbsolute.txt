@@ -1,0 +1,15 @@
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.exe.config
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.exe
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.pdb
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\View\App.g.cs
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite_MarkupCompile.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite_MarkupCompile.lref
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\View\MainWindow.baml
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.g.resources
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.Properties.Resources.resources
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.csproj.GenerateResource.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.exe
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.pdb
+C:\Users\Ha_nt\Desktop\XMLDemoReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.csprojAssemblyReference.cache
